@@ -1,0 +1,8 @@
+*.pyc
+*.xls
+*.xlsx
+*.xml
+.idea
+config.py
+config.ini
+url.py
